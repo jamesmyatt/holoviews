@@ -1,0 +1,6 @@
+# set-up steps for binder
+
+conda activate base
+
+# install holoviews in editable mode
+python -m pip install -e .
