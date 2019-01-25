@@ -1,5 +1,4 @@
 name: holoviews
-
 dependencies:
   - numpy<1.16.0
   - notebook
@@ -29,3 +28,5 @@ dependencies:
   - conda-forge::deepdiff
   - conda-forge::awscli
   - conda-forge::coveralls
+  - pip:
+    - -e .
