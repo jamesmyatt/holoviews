@@ -21,7 +21,7 @@ dependencies:
   - conda-forge::flexx=0.4.1
   - conda-forge::plotly=3.4
   - bokeh::bokeh=1.0.0
-  - bokeh::selenium
+  - conda-forge::selenium
   # Testing requirements
   - flake8
   - nose
